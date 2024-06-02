@@ -10,6 +10,6 @@ A foundational project in my journey of self-teaching HTML and CSS, this web pag
 - HTML
 - CSS
 
-Deployed Site: https://batking74.github.io/Login_Page_Project/
+Deployed Site: https://batking74.github.io/Login-Design-1/
 
 GitHub Repo: https://github.com/Batking74/Login_Page_Project
